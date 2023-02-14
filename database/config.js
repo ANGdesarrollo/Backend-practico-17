@@ -30,14 +30,13 @@ exports.sessionMongo = () => {
                 }
             } ),
             secret: process.env.SECRET,
-            resave: false,
-            saveUninitialized: false,
+            resave: true,
+            saveUninitialized: true,
             rolling: true,
             cookie: {
                 maxAge: 60 * 10000,
                 sameSite: 'none',
                 secure: true
-
             }
         } )
         logger.log( 'info', "Session Mongo online" )
