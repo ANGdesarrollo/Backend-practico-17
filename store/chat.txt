@@ -1,0 +1,119 @@
+[
+  {
+    "author": {
+      "email": "alexisgraff123@gmail.com",
+      "username": "Alexis",
+      "surname": "Graff",
+      "age": "28",
+      "alias": "Ale",
+      "image": "https://static3.depositphotos.com/1007572/231/i/600/depositphotos_2319994-stock-photo-kitten-in-box.jpg"
+    },
+    "text": "Hola Matías, realizo entrega del TP de Normalización !",
+    "timestamp": "2022/12/29 12:47:37",
+    "id": 1
+  },
+  {
+    "author": {
+      "email": "alexisgraff123@gmail.com",
+      "username": "Alexis",
+      "surname": "Graff",
+      "age": "29",
+      "alias": "Ale",
+      "image": "https://st.depositphotos.com/1000291/2042/i/600/depositphotos_20424431-stock-photo-british-playing-kitten-cat-isolated.jpg"
+    },
+    "text": "Probando compresion",
+    "timestamp": "2022/12/29 01:51:34",
+    "id": 2
+  },
+  {
+    "author": {
+      "email": "alexisgraff123@gmail.com",
+      "username": "Alexis",
+      "surname": "Graff",
+      "age": "28",
+      "alias": "Ale",
+      "image": "https://st.depositphotos.com/1000291/2042/i/600/depositphotos_20424431-stock-photo-british-playing-kitten-cat-isolated.jpg"
+    },
+    "text": "Probando normalizacion 2",
+    "timestamp": "2022/12/29 01:51:34",
+    "id": 3
+  },
+  {
+    "author": {
+      "email": "alexisgraff123@gmail.com",
+      "username": "Alexis",
+      "surname": "Graff",
+      "age": "28",
+      "alias": "Ale",
+      "image": "https://st.depositphotos.com/1000291/2042/i/600/depositphotos_20424431-stock-photo-british-playing-kitten-cat-isolated.jpg"
+    },
+    "text": "asd",
+    "timestamp": "2022/12/29 01:51:34",
+    "id": 4
+  },
+  {
+    "author": {
+      "email": "marieltorres97@gmail.com",
+      "username": "Mariel",
+      "surname": "Torres",
+      "age": "25",
+      "alias": "Mari",
+      "image": "https://st.depositphotos.com/1000291/2042/i/600/depositphotos_20424431-stock-photo-british-playing-kitten-cat-isolated.jpg"
+    },
+    "text": "Probando chat !",
+    "timestamp": "2022/12/29 01:51:34",
+    "id": 5
+  },
+  {
+    "author": {
+      "email": "marieltorres97@gmail.com",
+      "username": "Mariel",
+      "surname": "Torres",
+      "age": "25",
+      "alias": "Mari",
+      "image": "https://st.depositphotos.com/1000291/2042/i/600/depositphotos_20424431-stock-photo-british-playing-kitten-cat-isolated.jpg"
+    },
+    "text": "Hola, testeando que funcione correctamente el Socket",
+    "timestamp": "2022/12/29 01:51:34",
+    "id": 6
+  },
+  {
+    "author": {
+      "email": "alexisgraff123@gmail.com",
+      "username": "Alexis",
+      "surname": "Graff",
+      "age": "29",
+      "alias": "Ale",
+      "image": "https://www.enter.co/wp-content/uploads/2015/09/Nuevo-logo-Google-destacada.jpg"
+    },
+    "text": "Probando validadores de campo",
+    "timestamp": "2022/12/29 01:51:34",
+    "id": 7
+  },
+  {
+    "author": {
+      "email": "alexisgraff123@gmail.com",
+      "username": "Alexis",
+      "surname": "Graff",
+      "age": "29",
+      "alias": "Ale",
+      "image": "https://res.cloudinary.com/dwz16rstr/image/upload/v1662952747/cld-sample-5.jpg"
+    },
+    "text": "test",
+    "timestamp": "2023/01/17 05:28:04",
+    "id": 8
+  },
+  {
+    "author": {
+      "email": "alexisgraff123@gmail.com",
+      "username": "Alexis",
+      "surname": "Graff",
+      "age": "29",
+      "alias": "Ale",
+      "image": "https://static.eldiario.es/clip/ab74aa95-3656-424c-8ca1-dce590aabb97_16-9-discover-aspect-ratio_default_0.jpg"
+    },
+    "text": "Test",
+    "timestamp": "2023/01/31 10:38:27",
+    "id": 9
+  }
+]
