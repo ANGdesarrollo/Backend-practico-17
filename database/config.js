@@ -34,7 +34,10 @@ exports.sessionMongo = () => {
             saveUninitialized: false,
             rolling: true,
             cookie: {
-                maxAge: 60 * 10000
+                maxAge: 60 * 10000,
+                sameSite: 'none',
+                secure: true
+
             }
         } )
         logger.log( 'info', "Session Mongo online" )
